@@ -1,16 +1,50 @@
 ## Hi there 👋
+# Vuong Chi Thanh
 
-<!--
-**chithanht7cbltk/chithanht7cbltk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Software Enthusiast | Automotive Engineering Student
+I am interested in **embedded systems and low-level software development**, focusing on C programming for microcontroller-based systems and communication interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages**
+- C/C++ (Embedded Development)
+- Dart (Application Development)
+
+**Embedded Topics**
+- Timer-based system design
+- Cooperative task scheduling
+- UART communication
+- Peripheral simulation with Proteus
+
+**Tools**
+- Git / GitHub
+- Proteus
+- Embedded development environments
+
+---
+
+## Selected Projects
+
+**Traffic Light Controller (Embedded C)**  
+Timer-driven traffic signal system demonstrating state-machine design and time-based control logic.
+
+**UART Communication Simulation**  
+Embedded communication system simulated in Proteus showing UART peripheral interaction.
+
+**Embedded MCU System Projects**  
+Experiments with timer scheduling, peripheral interaction, and modular embedded C design.
+
+**Automotive Monitoring Application (Dart)**  
+Automation and monitoring tool developed as a desktop application.
+
+---
+
+## Career Goal
+
+I aim to develop my career as an **Embedded Software Engineer**, focusing on microcontroller-based systems, communication protocols, and automotive embedded software.
+
+---
+
+GitHub is where I document my learning journey and embedded system experiments.
