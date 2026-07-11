@@ -10,6 +10,7 @@ I am interested in **embedded systems and low-level software development**, focu
 
 **Languages**
 - C/C++ (Embedded Development)
+- Python
 - Dart (Application Development)
 
 **Embedded Topics**
